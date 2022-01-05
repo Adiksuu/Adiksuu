@@ -15,5 +15,3 @@
 <p align="left">
 <a href="https://www.behance.net/ad1ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ad1ks" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacpi11227&show_icons=true&locale=en&layout=compact" alt="kacpi11227" /></p>
