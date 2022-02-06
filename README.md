@@ -4,7 +4,7 @@
 <br />
 ✦ My interests are Blender 3d and making websites (front-end)
 <br />
-✦ I'm currently learning javascript/typescript
+✦ I'm currently learning javascript/typescript & python
 <br />
 ###  My Languages & Tools:
 
