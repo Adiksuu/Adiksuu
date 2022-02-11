@@ -23,3 +23,8 @@
 ✦ You can also contact me there, ask about something that interests you or talk to other people.
 
 ✦ You can also win giveaways for prizes such as full access to my SOD game (Survive Of Dungeon)
+
+### DISCORD URL:
+![image](https://user-images.githubusercontent.com/75419729/153568356-3b364295-36a3-42bf-bc69-e541dcc946a1.png)
+
+<p align="left"> ✦ https://discord.gg/nwK7FhbNhC </p>
