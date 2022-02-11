@@ -16,3 +16,10 @@
 <p align="left">
 <a href="https://www.behance.net/ad1ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ad1ks" height="30" width="40" /></a>
 </p>
+
+###  OFFICIAL DISCORD SERVER:
+✦ On this discord you will find the latest information about my work.
+
+✦ You can also contact me there, ask about something that interests you or talk to other people.
+
+✦ You can also win giveaways for prizes such as full access to my SOD game (Survive Of Dungeon)
