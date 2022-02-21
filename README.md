@@ -17,6 +17,9 @@
 <a href="https://www.behance.net/ad1ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ad1ks" height="30" width="40" /></a>
 </p>
 
+### MY PERSONAL WEBSITE 
+✦ If you want to check my website where you can find more information about me and my work then take a [look here](https://codeadiksuuweb.ml) 
+
 ###  OFFICIAL DISCORD SERVER:
 ✦ On this discord you will find the latest information about my work.
 
@@ -28,6 +31,9 @@
 ![image](https://user-images.githubusercontent.com/75419729/153568356-3b364295-36a3-42bf-bc69-e541dcc946a1.png)
 
 <p align="left"> ✦ COMMING SOON... </p>
+
+<details>
+<summary> 🏅 Click for my GitHub Stats</summary>
 
 ### 🌟 GitHub Stats
 
@@ -42,3 +48,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiksuu&column=8&theme=gruvbox&no-frame=true"/>
 </p>
+</details>
