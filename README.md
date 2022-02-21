@@ -27,4 +27,4 @@
 ### DISCORD URL:
 ![image](https://user-images.githubusercontent.com/75419729/153568356-3b364295-36a3-42bf-bc69-e541dcc946a1.png)
 
-<p align="left"> ✦ https://discord.gg/nwK7FhbNhC </p>
+<p align="left"> ✦ COMMING SOON... </p>
