@@ -28,3 +28,17 @@
 ![image](https://user-images.githubusercontent.com/75419729/153568356-3b364295-36a3-42bf-bc69-e541dcc946a1.png)
 
 <p align="left"> ✦ COMMING SOON... </p>
+
+### 🌟 GitHub Stats
+
+<img align="center" alt="CodeAdiksuu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adiksuu&hide=prs,contribs&show_icons=true&hide_border=false&title_color=03a9fc&icon_color=047dba&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+### ⚡ GitHub top languages
+<p align="center">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiksuu&hide_border=true&title_color=5391FE&text_color=555"
+</p> 
+
+### 🏆 Github Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adiksuu&column=8&theme=gruvbox&no-frame=true"/>
+</p>
