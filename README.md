@@ -48,4 +48,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adiksuu&column=8&theme=gruvbox&no-frame=true"/>
 </p>
+
+### 🔥 Github Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adiksuu&" alt="Adiksuu" /></p>
 </details>
