@@ -2,9 +2,9 @@
 
 ✦ I'm currently using VisualStudioCode
 <br />
-✦ My interests are Blender 3d and making websites (front-end)
+✦ My interests are making websites (front-end)
 <br />
-✦ I'm currently learning javascript/typescript & python
+✦ I'm currently learning javascript
 <br />
 ###  My Languages & Tools:
 
