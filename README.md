@@ -2,7 +2,7 @@
 ![CODEADIKSUU](https://github.com/Adiksuu/Adiksuu/assets/75419729/09d67299-5b51-4792-8518-3ceb0accd456)
 
 # 🧔🏻 About Me:
-I'm using VSCode<br>I'm learning Javascript<br>I'm making websites (front-end)
+I'm using VSCode<br>I'm learning React.js<br>I'm making websites (front-end)
 
 
 ## 🌐 Socials:
