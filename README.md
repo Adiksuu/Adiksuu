@@ -1,5 +1,5 @@
 
-![CODEADIKSUU](https://github.com/Adiksuu/Adiksuu/assets/75419729/09d67299-5b51-4792-8518-3ceb0accd456)
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/260defc0-7384-48e1-a842-1bbbdd578042" />
 
 # 🧔🏻 About Me:
 I'm using VSCode<br>I'm learning React.js<br>I'm making websites (front-end)
