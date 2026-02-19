@@ -21,4 +21,4 @@ I'm using VSCode<br>I'm learning React.js<br>I'm making websites (front-end)
 [![](https://visitcount.itsvg.in/api?id=Adiksuu&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You Can Donate Me
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Adiksuu) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Adiksuu) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Adiksuu) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/CodeAdiksuu) 
