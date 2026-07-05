@@ -50,6 +50,6 @@ Currently I'm working mainly with Laravel, React and TypeScript, while exploring
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiksuu&theme=react&hide_border=true&layout=compact)
 
-## Find Me
+## Contact with me
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/Adiksuu)
+Send me an [Email](mailto:codeadiksuu@gmail.com)
