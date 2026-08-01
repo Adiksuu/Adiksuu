@@ -40,7 +40,7 @@ Currently I'm working mainly with Laravel, React and TypeScript, while exploring
 
 ## Featured Projects
 
-- **Orbit** — modern project and workspace management platform built with Laravel and React. Comming this year!
+- **Orbit** — modern project and workspace management platform built with Laravel and React. Available now!
 - **JustTalk** — cross-platform messaging application available now on Android. Windows and Linux in the end of year.
 - More projects are available in my repositories.
 
